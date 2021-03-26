@@ -1,0 +1,15 @@
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\bin\Debug\Calkulator.exe.config
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\bin\Debug\Calkulator.exe
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\bin\Debug\Calkulator.pdb
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator.csprojAssemblyReference.cache
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\MainWindow.g.cs
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\App.g.cs
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator_MarkupCompile.cache
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator_MarkupCompile.lref
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\MainWindow.baml
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator.g.resources
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator.Properties.Resources.resources
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator.csproj.GenerateResource.cache
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator.exe
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator.pdb
+C:\Users\DIMA\source\repos\Calkulator\Calkulator\obj\Debug\Calkulator.csproj.CoreCompileInputs.cache
